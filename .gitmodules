@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rijalghodi/deep-ielts-fe.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rijalghodi/deep-ielts-be.git
